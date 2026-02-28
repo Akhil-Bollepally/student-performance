@@ -1,0 +1,1001 @@
+Gender,Study Year,Devices,CGPA Range,CGPA Trend,Academic Hours
+Male,1,3,3.00-3.49,Increase,11
+Male,Post Graduate,3,3.50-3.99,Increase,8
+Male,Post Graduate,3,3.50-3.99,None,14
+Male,4,2,3.50-3.99,Increase,14
+Female,2,2,3.00-3.49,Decrease,11
+Male,3,3,3.00-3.49,None,5
+Male,Post Graduate,4,3.00-3.49,None,11
+Male,3,4,3.00-3.49,Increase,11
+Female,3,4,2.50-2.99,Decrease,2
+Male,Post Graduate,1,3.00-3.49,Increase,2
+Male,2,3,2.50-2.99,Decrease,5
+Female,2,1,3.00-3.49,Decrease,5
+Female,Post Graduate,4,3.00-3.49,None,11
+Male,1,1,3.50-3.99,Increase,8
+Male,4,2,3.00-3.49,None,2
+Male,Post Graduate,2,2.50-2.99,None,5
+Female,1,4,3.50-3.99,None,14
+Female,Post Graduate,4,3.50-3.99,Increase,11
+Female,4,1,3.50-3.99,Increase,14
+Male,1,1,3.00-3.49,Increase,5
+Male,3,1,3.00-3.49,Increase,11
+Female,4,1,3.50-3.99,Increase,14
+Male,Post Graduate,1,3.00-3.49,None,2
+Male,2,3,3.50-3.99,Increase,8
+Female,2,1,3.00-3.49,None,8
+Male,4,1,3.00-3.49,Decrease,11
+Female,1,3,2.50-2.99,Increase,2
+Female,2,4,3.50-3.99,Decrease,14
+Male,1,3,3.50-3.99,Increase,11
+Female,2,1,3.50-3.99,Increase,8
+Female,4,1,3.00-3.49,Decrease,8
+Male,3,3,3.50-3.99,Increase,8
+Male,2,1,3.00-3.49,None,5
+Female,1,4,3.00-3.49,None,14
+Female,Post Graduate,4,3.00-3.49,Decrease,11
+Female,4,1,3.00-3.49,None,8
+Female,Post Graduate,1,3.50-3.99,Increase,11
+Female,1,3,3.00-3.49,Decrease,11
+Male,Post Graduate,2,3.00-3.49,None,5
+Male,1,2,3.00-3.49,Decrease,11
+Female,Post Graduate,4,3.00-3.49,Decrease,11
+Female,3,4,3.00-3.49,Increase,2
+Female,Post Graduate,3,3.00-3.49,None,2
+Male,Post Graduate,1,3.00-3.49,Decrease,11
+Female,3,1,2.50-2.99,Decrease,2
+Male,3,3,2.50-2.99,None,2
+Female,1,2,3.00-3.49,None,14
+Male,4,4,3.00-3.49,Decrease,8
+Female,2,2,3.00-3.49,Increase,2
+Male,3,2,3.00-3.49,None,11
+Female,2,4,3.00-3.49,Increase,5
+Female,3,4,2.50-2.99,None,2
+Male,3,3,2.50-2.99,None,2
+Male,3,3,3.50-3.99,None,14
+Female,4,4,2.50-2.99,Decrease,2
+Female,2,1,3.50-3.99,Decrease,11
+Male,4,2,3.00-3.49,Decrease,11
+Male,3,1,3.50-3.99,Increase,14
+Male,2,4,3.00-3.49,Increase,5
+Female,4,4,3.00-3.49,None,2
+Male,1,1,3.50-3.99,Increase,11
+Male,Post Graduate,3,3.50-3.99,Increase,11
+Female,Post Graduate,4,3.50-3.99,Increase,8
+Female,2,3,2.50-2.99,Decrease,8
+Male,3,4,3.00-3.49,Decrease,11
+Male,4,3,3.00-3.49,None,5
+Female,Post Graduate,4,2.50-2.99,Decrease,2
+Female,Post Graduate,2,3.00-3.49,None,5
+Female,4,3,2.50-2.99,Decrease,11
+Male,4,1,3.50-3.99,None,11
+Male,4,1,3.50-3.99,Increase,14
+Female,3,1,3.00-3.49,Decrease,8
+Female,3,3,2.50-2.99,Decrease,8
+Male,3,1,3.50-3.99,None,11
+Male,2,3,3.00-3.49,Increase,2
+Male,Post Graduate,1,2.50-2.99,Decrease,5
+Female,1,4,2.00-2.49,Decrease,5
+Male,1,1,2.50-2.99,None,2
+Female,Post Graduate,4,2.50-2.99,None,2
+Female,4,4,3.00-3.49,Decrease,11
+Male,Post Graduate,4,3.00-3.49,None,8
+Male,3,4,3.50-3.99,Increase,8
+Female,3,3,3.50-3.99,Decrease,14
+Female,Post Graduate,3,3.00-3.49,None,5
+Male,2,1,2.50-2.99,Decrease,2
+Female,4,1,3.50-3.99,Increase,11
+Female,4,1,3.00-3.49,Decrease,8
+Female,2,4,2.50-2.99,None,2
+Male,2,4,2.50-2.99,None,11
+Female,2,2,3.00-3.49,Increase,8
+Male,1,4,2.50-2.99,None,2
+Male,Post Graduate,2,3.00-3.49,Decrease,14
+Female,1,3,2.50-2.99,Decrease,8
+Female,1,1,3.00-3.49,Increase,8
+Female,4,4,3.00-3.49,None,5
+Male,2,2,3.00-3.49,Decrease,8
+Male,Post Graduate,4,3.00-3.49,Increase,5
+Female,3,2,3.00-3.49,Increase,5
+Male,3,1,2.50-2.99,Decrease,2
+Male,3,3,3.50-3.99,Increase,14
+Female,4,2,3.00-3.49,Decrease,5
+Female,4,1,3.50-3.99,None,11
+Female,Post Graduate,2,2.50-2.99,Increase,2
+Male,3,4,3.50-3.99,Increase,11
+Female,4,3,2.50-2.99,Decrease,11
+Male,2,3,3.00-3.49,Decrease,8
+Female,3,1,3.00-3.49,Increase,5
+Male,Post Graduate,2,3.00-3.49,None,5
+Male,3,2,2.50-2.99,None,2
+Female,Post Graduate,1,3.50-3.99,None,14
+Male,4,4,3.00-3.49,None,11
+Female,Post Graduate,2,3.50-3.99,Decrease,14
+Male,1,4,3.00-3.49,Decrease,11
+Female,Post Graduate,4,3.00-3.49,Increase,11
+Female,4,4,3.50-3.99,Increase,14
+Female,1,3,3.00-3.49,None,11
+Male,4,2,3.00-3.49,Increase,5
+Female,1,1,3.00-3.49,Decrease,2
+Female,Post Graduate,2,3.00-3.49,None,5
+Female,3,2,2.50-2.99,None,2
+Male,3,4,3.50-3.99,None,14
+Male,4,2,3.50-3.99,None,14
+Female,3,3,2.50-2.99,Decrease,8
+Male,2,1,2.50-2.99,Increase,2
+Male,4,1,3.00-3.49,Decrease,11
+Male,1,4,3.00-3.49,Decrease,5
+Female,2,2,3.00-3.49,Decrease,14
+Female,Post Graduate,2,3.50-3.99,None,14
+Male,Post Graduate,3,3.00-3.49,Decrease,5
+Male,Post Graduate,2,3.50-3.99,None,11
+Male,3,3,3.00-3.49,Increase,5
+Female,4,1,3.50-3.99,Increase,14
+Female,2,1,3.00-3.49,Decrease,11
+Male,2,2,3.00-3.49,None,2
+Female,Post Graduate,4,3.00-3.49,Decrease,8
+Female,1,3,3.00-3.49,Decrease,11
+Female,Post Graduate,1,3.00-3.49,None,2
+Female,4,4,3.00-3.49,Increase,8
+Female,1,1,3.00-3.49,Increase,2
+Female,Post Graduate,1,3.50-3.99,Decrease,14
+Female,3,4,3.00-3.49,None,5
+Female,1,3,2.50-2.99,None,2
+Male,4,2,3.00-3.49,None,14
+Male,3,4,3.00-3.49,Increase,5
+Male,2,1,3.50-3.99,Increase,5
+Male,Post Graduate,4,3.00-3.49,Increase,2
+Male,1,1,3.50-3.99,Increase,14
+Male,4,1,3.00-3.49,None,8
+Female,Post Graduate,1,2.50-2.99,Decrease,8
+Female,4,3,3.50-3.99,Increase,14
+Female,1,4,2.50-2.99,Decrease,2
+Female,4,3,2.50-2.99,Decrease,2
+Male,4,2,2.50-2.99,Decrease,2
+Female,3,1,3.50-3.99,None,14
+Male,3,3,3.00-3.49,None,8
+Female,1,4,3.00-3.49,Decrease,11
+Female,1,3,3.00-3.49,Increase,5
+Male,3,3,3.50-3.99,Decrease,11
+Female,1,1,3.50-3.99,Decrease,11
+Male,Post Graduate,3,3.00-3.49,Increase,2
+Male,4,3,3.00-3.49,Decrease,14
+Female,Post Graduate,3,3.50-3.99,Increase,5
+Male,3,3,3.50-3.99,None,11
+Male,Post Graduate,1,3.50-3.99,Decrease,14
+Female,1,2,3.00-3.49,Decrease,14
+Female,2,3,2.50-2.99,Decrease,5
+Female,2,2,3.00-3.49,Decrease,14
+Female,1,4,3.50-3.99,None,14
+Female,1,1,3.50-3.99,None,11
+Female,1,1,3.50-3.99,Increase,11
+Male,4,4,2.50-2.99,None,11
+Female,2,2,3.50-3.99,Increase,8
+Male,Post Graduate,3,2.50-2.99,Decrease,8
+Male,3,2,3.00-3.49,Increase,5
+Female,4,4,3.00-3.49,None,11
+Male,4,3,3.00-3.49,None,2
+Male,3,3,3.00-3.49,Decrease,14
+Female,1,4,2.50-2.99,None,2
+Male,3,1,3.00-3.49,None,2
+Female,1,1,3.50-3.99,Increase,11
+Male,3,3,3.00-3.49,Decrease,8
+Female,1,1,3.00-3.49,Increase,2
+Male,3,2,3.00-3.49,None,2
+Female,3,4,3.00-3.49,None,2
+Female,Post Graduate,3,3.00-3.49,Increase,11
+Female,2,1,3.00-3.49,Increase,5
+Male,3,4,2.50-2.99,None,11
+Male,4,2,3.00-3.49,Decrease,11
+Female,4,4,3.50-3.99,None,14
+Female,Post Graduate,1,3.50-3.99,Decrease,14
+Male,Post Graduate,4,3.00-3.49,Decrease,14
+Female,Post Graduate,2,3.00-3.49,None,8
+Male,3,1,3.50-3.99,None,5
+Female,3,1,2.50-2.99,Decrease,5
+Female,2,2,3.00-3.49,Increase,5
+Female,2,4,3.00-3.49,Increase,2
+Male,1,2,2.50-2.99,Decrease,2
+Female,1,3,3.50-3.99,Increase,14
+Female,1,2,2.50-2.99,Decrease,2
+Male,2,3,3.00-3.49,Decrease,2
+Male,Post Graduate,1,3.50-3.99,Increase,11
+Male,Post Graduate,1,3.00-3.49,Decrease,14
+Male,3,1,2.50-2.99,Decrease,5
+Female,2,2,2.50-2.99,Decrease,2
+Female,2,2,3.00-3.49,Increase,2
+Male,3,2,3.00-3.49,None,2
+Male,3,1,3.00-3.49,Increase,5
+Female,4,2,2.50-2.99,Decrease,5
+Female,1,2,3.50-3.99,Increase,8
+Male,3,2,3.00-3.49,Decrease,11
+Female,4,1,3.00-3.49,None,8
+Male,1,3,3.00-3.49,Decrease,14
+Female,1,1,3.00-3.49,Increase,5
+Female,Post Graduate,2,3.00-3.49,None,5
+Female,4,2,3.00-3.49,None,8
+Female,3,1,3.00-3.49,Increase,2
+Female,Post Graduate,4,3.00-3.49,None,11
+Female,2,1,3.00-3.49,None,14
+Male,4,1,3.50-3.99,None,11
+Female,3,1,3.00-3.49,None,11
+Male,2,4,3.50-3.99,Increase,14
+Male,Post Graduate,1,3.50-3.99,Increase,8
+Male,2,3,3.00-3.49,None,8
+Female,2,4,3.00-3.49,Increase,11
+Female,2,4,2.50-2.99,Decrease,2
+Male,3,1,3.00-3.49,None,5
+Male,Post Graduate,1,3.50-3.99,Increase,5
+Male,Post Graduate,2,3.00-3.49,None,11
+Male,4,2,3.50-3.99,None,14
+Female,1,1,3.00-3.49,Increase,2
+Male,3,4,2.50-2.99,None,5
+Male,3,2,2.50-2.99,Decrease,2
+Male,2,3,3.00-3.49,Increase,2
+Male,3,3,3.50-3.99,Increase,14
+Female,3,1,3.00-3.49,Increase,5
+Female,2,3,3.00-3.49,None,5
+Female,3,4,3.00-3.49,Increase,5
+Male,4,3,3.00-3.49,None,8
+Male,4,3,3.00-3.49,None,11
+Male,4,3,2.50-2.99,Decrease,8
+Male,1,3,3.00-3.49,Increase,2
+Male,3,3,3.00-3.49,Increase,2
+Female,Post Graduate,1,2.50-2.99,Decrease,5
+Male,4,1,3.50-3.99,None,11
+Female,Post Graduate,1,3.50-3.99,None,11
+Male,Post Graduate,2,3.00-3.49,Increase,11
+Male,2,3,3.00-3.49,Decrease,5
+Male,4,4,3.00-3.49,None,8
+Male,Post Graduate,2,3.00-3.49,None,2
+Female,Post Graduate,4,2.50-2.99,None,5
+Female,Post Graduate,3,3.00-3.49,Increase,8
+Female,3,1,3.00-3.49,Decrease,14
+Female,4,2,3.50-3.99,Increase,14
+Female,3,4,3.00-3.49,Increase,8
+Female,2,2,3.00-3.49,None,2
+Male,2,4,3.50-3.99,Increase,14
+Male,Post Graduate,4,3.00-3.49,Decrease,5
+Male,1,3,2.50-2.99,None,2
+Male,1,2,3.00-3.49,Decrease,8
+Male,3,3,3.00-3.49,Decrease,5
+Female,3,3,3.50-3.99,Increase,14
+Male,1,2,3.00-3.49,Decrease,11
+Female,4,3,3.00-3.49,Increase,11
+Female,2,3,2.50-2.99,Decrease,2
+Male,3,2,3.50-3.99,None,14
+Female,2,1,3.00-3.49,None,8
+Male,2,3,2.50-2.99,Decrease,2
+Female,Post Graduate,1,2.50-2.99,None,5
+Female,Post Graduate,4,3.00-3.49,Increase,5
+Male,Post Graduate,1,3.50-3.99,Increase,14
+Male,Post Graduate,1,3.00-3.49,Increase,2
+Female,Post Graduate,2,3.00-3.49,None,8
+Male,2,2,3.00-3.49,Increase,2
+Male,3,2,3.50-3.99,Increase,14
+Female,4,4,3.00-3.49,Decrease,8
+Male,3,2,3.50-3.99,Increase,11
+Male,3,4,3.50-3.99,None,14
+Female,2,2,3.50-3.99,Increase,11
+Female,Post Graduate,2,3.50-3.99,Increase,8
+Male,4,3,3.00-3.49,Increase,5
+Male,Post Graduate,2,3.50-3.99,Increase,11
+Female,Post Graduate,2,3.00-3.49,Increase,8
+Female,3,1,3.00-3.49,None,2
+Female,1,1,3.00-3.49,None,2
+Female,4,1,3.00-3.49,None,5
+Female,1,3,3.00-3.49,Decrease,8
+Male,3,2,2.50-2.99,Decrease,8
+Female,4,4,3.50-3.99,Increase,11
+Female,2,3,3.50-3.99,Decrease,14
+Male,4,3,3.00-3.49,None,11
+Female,3,1,2.50-2.99,Decrease,2
+Female,4,3,2.50-2.99,None,2
+Male,Post Graduate,2,3.50-3.99,None,11
+Female,3,3,3.00-3.49,Increase,5
+Female,3,1,3.50-3.99,None,14
+Female,2,1,3.00-3.49,None,14
+Male,1,1,3.50-3.99,Increase,11
+Male,Post Graduate,3,3.00-3.49,Decrease,8
+Female,4,3,3.00-3.49,Increase,11
+Male,Post Graduate,1,3.50-3.99,Increase,11
+Male,2,3,2.50-2.99,None,5
+Female,4,3,2.50-2.99,None,5
+Male,1,2,3.00-3.49,Decrease,8
+Male,2,2,2.50-2.99,Decrease,5
+Male,2,1,2.50-2.99,Decrease,2
+Female,Post Graduate,4,3.50-3.99,Increase,14
+Female,1,4,3.50-3.99,Increase,14
+Female,4,4,3.00-3.49,None,5
+Female,1,1,3.00-3.49,Decrease,8
+Female,3,2,3.00-3.49,None,8
+Female,4,3,3.00-3.49,None,2
+Male,1,1,3.00-3.49,Increase,2
+Male,1,1,2.50-2.99,Decrease,2
+Male,4,2,2.50-2.99,None,2
+Male,Post Graduate,3,3.00-3.49,Decrease,11
+Female,1,2,3.00-3.49,None,5
+Male,3,3,2.50-2.99,Decrease,5
+Female,3,3,3.50-3.99,Increase,11
+Male,4,3,3.50-3.99,Increase,8
+Female,3,4,2.50-2.99,Decrease,14
+Male,4,4,3.00-3.49,Increase,2
+Female,4,2,2.50-2.99,Decrease,5
+Male,Post Graduate,4,2.50-2.99,None,5
+Male,4,4,3.00-3.49,Increase,2
+Female,4,1,3.00-3.49,Decrease,11
+Female,Post Graduate,1,3.00-3.49,Increase,2
+Male,Post Graduate,3,2.50-2.99,Decrease,2
+Male,4,3,2.50-2.99,Decrease,8
+Female,1,4,2.50-2.99,Decrease,8
+Male,3,1,3.00-3.49,Decrease,14
+Male,4,1,3.00-3.49,Decrease,8
+Male,1,4,2.00-2.49,None,2
+Male,Post Graduate,2,3.00-3.49,None,8
+Female,2,1,3.00-3.49,None,8
+Male,Post Graduate,4,3.00-3.49,Decrease,5
+Male,Post Graduate,4,2.50-2.99,None,2
+Female,1,3,3.50-3.99,None,11
+Male,3,3,2.50-2.99,Decrease,8
+Male,2,3,3.00-3.49,Increase,14
+Female,2,1,3.00-3.49,Decrease,8
+Male,4,3,3.00-3.49,None,2
+Male,3,3,3.00-3.49,None,8
+Female,2,4,2.50-2.99,Decrease,11
+Female,2,2,2.50-2.99,None,5
+Male,3,3,3.00-3.49,None,2
+Male,Post Graduate,4,2.50-2.99,Decrease,5
+Male,4,2,2.50-2.99,None,2
+Female,3,2,3.00-3.49,Decrease,5
+Female,Post Graduate,3,3.50-3.99,Increase,11
+Female,Post Graduate,4,3.00-3.49,None,2
+Female,Post Graduate,2,3.50-3.99,Increase,14
+Male,2,2,3.50-3.99,Increase,11
+Female,4,4,2.50-2.99,None,2
+Female,3,2,3.00-3.49,Decrease,2
+Female,3,2,3.50-3.99,None,8
+Female,3,2,3.50-3.99,None,14
+Male,1,1,3.00-3.49,None,2
+Male,4,4,3.00-3.49,None,5
+Female,1,2,3.00-3.49,Decrease,14
+Male,1,3,2.50-2.99,None,5
+Male,1,4,3.50-3.99,Increase,14
+Female,1,2,3.00-3.49,None,2
+Male,2,1,3.50-3.99,Increase,2
+Female,3,1,3.00-3.49,Decrease,5
+Male,Post Graduate,2,3.00-3.49,Decrease,14
+Female,2,3,3.00-3.49,Increase,5
+Female,3,4,3.00-3.49,Decrease,14
+Male,2,1,3.00-3.49,None,2
+Male,Post Graduate,2,3.50-3.99,None,14
+Male,2,4,2.50-2.99,None,5
+Female,3,4,2.50-2.99,Decrease,8
+Male,Post Graduate,4,3.00-3.49,Increase,2
+Female,Post Graduate,3,3.00-3.49,Decrease,8
+Female,1,4,3.50-3.99,Increase,14
+Female,2,4,3.00-3.49,Increase,2
+Female,Post Graduate,3,2.50-2.99,Decrease,8
+Male,1,4,3.00-3.49,Decrease,8
+Female,2,2,3.00-3.49,None,14
+Female,3,1,2.50-2.99,Decrease,2
+Female,1,1,2.50-2.99,None,8
+Male,Post Graduate,4,3.00-3.49,Increase,5
+Male,1,2,3.00-3.49,Decrease,14
+Female,2,4,3.00-3.49,Increase,11
+Female,1,3,3.00-3.49,Increase,8
+Male,4,1,3.50-3.99,Decrease,14
+Female,2,1,3.50-3.99,None,11
+Female,Post Graduate,2,3.50-3.99,Increase,8
+Male,2,3,3.50-3.99,None,14
+Female,3,2,3.00-3.49,Increase,2
+Male,3,3,3.00-3.49,Increase,5
+Female,4,1,3.50-3.99,None,14
+Female,1,4,2.50-2.99,Decrease,2
+Female,4,3,3.00-3.49,Decrease,5
+Male,2,2,3.50-3.99,Increase,14
+Female,2,3,2.50-2.99,Decrease,2
+Female,Post Graduate,3,3.50-3.99,Increase,14
+Female,Post Graduate,2,3.00-3.49,None,11
+Female,Post Graduate,2,3.00-3.49,Increase,2
+Male,2,2,2.50-2.99,Decrease,8
+Male,1,3,3.50-3.99,None,14
+Female,1,3,3.00-3.49,None,5
+Female,2,3,3.00-3.49,Increase,2
+Male,1,4,3.50-3.99,None,14
+Male,3,1,3.50-3.99,Increase,14
+Male,4,2,3.00-3.49,Decrease,11
+Male,1,4,3.00-3.49,None,8
+Female,Post Graduate,3,3.00-3.49,None,11
+Male,3,4,3.00-3.49,Increase,11
+Female,3,3,2.50-2.99,None,2
+Male,4,3,3.50-3.99,Increase,11
+Male,1,1,3.00-3.49,Increase,2
+Male,3,2,3.00-3.49,Increase,5
+Female,1,4,2.50-2.99,None,5
+Male,2,4,3.00-3.49,None,11
+Female,2,4,2.50-2.99,Decrease,8
+Male,Post Graduate,4,3.00-3.49,None,8
+Female,Post Graduate,2,3.50-3.99,None,14
+Female,1,1,3.00-3.49,Decrease,14
+Male,3,3,3.50-3.99,Increase,14
+Male,1,2,3.00-3.49,Decrease,8
+Female,3,4,3.50-3.99,Increase,14
+Male,3,2,2.50-2.99,Decrease,2
+Female,2,4,3.00-3.49,None,8
+Female,1,4,3.50-3.99,None,14
+Male,1,3,3.00-3.49,Increase,2
+Female,3,2,3.50-3.99,Increase,8
+Female,2,1,3.00-3.49,Decrease,8
+Female,Post Graduate,3,2.50-2.99,Increase,2
+Male,3,2,3.00-3.49,Decrease,11
+Female,4,1,3.50-3.99,Increase,14
+Female,1,3,2.50-2.99,Decrease,8
+Male,1,2,3.00-3.49,None,8
+Male,4,1,3.00-3.49,None,5
+Female,1,4,3.50-3.99,Increase,14
+Male,4,4,3.50-3.99,None,14
+Male,1,3,3.00-3.49,None,5
+Male,Post Graduate,3,3.50-3.99,Increase,5
+Male,3,1,3.00-3.49,Decrease,8
+Male,3,4,3.50-3.99,Increase,11
+Male,4,1,3.50-3.99,Decrease,14
+Female,3,2,3.50-3.99,None,11
+Female,4,3,3.00-3.49,Decrease,14
+Female,4,3,3.50-3.99,Increase,14
+Female,2,3,3.50-3.99,Increase,14
+Male,4,2,3.00-3.49,Decrease,5
+Female,1,1,3.50-3.99,Increase,11
+Female,Post Graduate,3,3.00-3.49,Decrease,5
+Male,4,1,2.50-2.99,Increase,2
+Male,3,1,3.00-3.49,None,5
+Female,2,3,3.50-3.99,None,8
+Female,3,2,3.00-3.49,Decrease,5
+Female,Post Graduate,4,3.00-3.49,None,11
+Female,Post Graduate,3,3.00-3.49,Decrease,14
+Female,3,3,2.50-2.99,Decrease,2
+Male,1,4,2.50-2.99,None,2
+Female,3,2,3.00-3.49,Decrease,8
+Male,Post Graduate,2,3.50-3.99,None,5
+Male,3,4,3.00-3.49,Decrease,14
+Male,3,4,3.50-3.99,Increase,14
+Female,3,2,2.50-2.99,Decrease,5
+Male,4,2,2.50-2.99,None,5
+Female,4,3,3.50-3.99,Increase,14
+Female,2,1,3.50-3.99,None,8
+Male,3,3,3.50-3.99,Increase,8
+Female,1,1,3.00-3.49,None,11
+Female,1,2,3.00-3.49,None,11
+Female,Post Graduate,2,3.00-3.49,Increase,5
+Male,2,3,3.00-3.49,Decrease,11
+Female,2,4,3.00-3.49,Increase,8
+Male,3,3,3.00-3.49,Decrease,8
+Male,2,2,3.00-3.49,Increase,5
+Male,1,4,3.50-3.99,None,11
+Female,Post Graduate,1,3.50-3.99,None,11
+Male,1,4,3.00-3.49,Decrease,11
+Male,2,1,2.50-2.99,Decrease,2
+Male,4,1,3.00-3.49,None,14
+Male,4,2,3.50-3.99,None,8
+Female,4,2,3.00-3.49,Increase,8
+Male,4,1,3.00-3.49,Increase,2
+Male,1,4,3.50-3.99,Increase,8
+Male,3,2,3.00-3.49,Decrease,8
+Male,1,1,3.00-3.49,Decrease,11
+Male,1,4,2.50-2.99,None,2
+Female,1,4,2.50-2.99,Decrease,2
+Female,3,2,2.50-2.99,None,2
+Male,2,1,3.00-3.49,Decrease,14
+Female,Post Graduate,4,2.50-2.99,None,5
+Female,4,3,3.00-3.49,Increase,5
+Male,3,2,2.50-2.99,Decrease,5
+Female,2,3,3.50-3.99,Increase,11
+Male,1,1,3.00-3.49,Decrease,8
+Male,Post Graduate,3,3.00-3.49,Decrease,2
+Female,1,2,3.00-3.49,Decrease,11
+Female,4,2,3.50-3.99,None,11
+Female,Post Graduate,2,3.50-3.99,None,8
+Female,Post Graduate,4,3.00-3.49,None,11
+Male,1,2,2.50-2.99,Decrease,5
+Male,1,3,3.00-3.49,Decrease,2
+Female,Post Graduate,4,3.50-3.99,Increase,5
+Female,2,4,3.00-3.49,Increase,11
+Male,4,1,2.50-2.99,None,2
+Female,Post Graduate,3,3.00-3.49,None,11
+Female,Post Graduate,1,3.50-3.99,None,14
+Female,3,3,3.50-3.99,Increase,11
+Female,Post Graduate,2,2.50-2.99,None,5
+Female,3,4,3.00-3.49,None,2
+Female,1,3,3.00-3.49,None,8
+Female,4,1,3.50-3.99,None,14
+Male,1,2,3.00-3.49,Increase,2
+Male,3,1,3.00-3.49,None,5
+Male,Post Graduate,1,3.50-3.99,None,11
+Male,4,2,3.00-3.49,Decrease,11
+Female,2,4,3.00-3.49,Increase,5
+Male,3,4,3.00-3.49,Increase,5
+Male,4,1,3.00-3.49,Decrease,5
+Female,1,2,3.00-3.49,Decrease,11
+Male,Post Graduate,2,2.50-2.99,Decrease,5
+Male,Post Graduate,2,3.00-3.49,Decrease,14
+Female,3,3,2.50-2.99,Decrease,2
+Male,1,4,2.50-2.99,Decrease,5
+Male,1,4,2.50-2.99,Decrease,5
+Female,1,1,2.50-2.99,None,2
+Female,Post Graduate,2,3.50-3.99,Increase,11
+Male,2,3,2.50-2.99,None,2
+Male,1,4,3.00-3.49,None,5
+Male,3,1,2.50-2.99,None,2
+Female,4,4,3.00-3.49,Decrease,5
+Male,Post Graduate,4,3.50-3.99,None,14
+Male,1,3,3.00-3.49,None,8
+Female,Post Graduate,4,3.00-3.49,Decrease,5
+Male,2,1,3.00-3.49,None,5
+Female,1,1,3.50-3.99,Increase,11
+Female,Post Graduate,4,2.50-2.99,Decrease,8
+Female,Post Graduate,3,3.00-3.49,Increase,14
+Male,1,3,3.50-3.99,None,14
+Male,3,4,3.00-3.49,Decrease,11
+Female,3,4,3.50-3.99,Increase,11
+Male,2,3,3.50-3.99,Decrease,14
+Male,Post Graduate,4,2.50-2.99,Decrease,5
+Female,3,1,3.50-3.99,Increase,14
+Female,4,3,3.50-3.99,Increase,14
+Male,3,4,2.50-2.99,None,5
+Male,Post Graduate,4,3.50-3.99,None,14
+Female,2,2,2.50-2.99,Decrease,5
+Female,Post Graduate,1,3.00-3.49,Decrease,5
+Male,Post Graduate,4,3.00-3.49,Decrease,8
+Male,4,2,3.00-3.49,Increase,11
+Female,3,2,3.50-3.99,Increase,14
+Female,4,4,3.00-3.49,Increase,5
+Female,Post Graduate,2,3.00-3.49,Decrease,14
+Female,2,1,3.50-3.99,Decrease,14
+Male,4,2,3.00-3.49,Increase,5
+Female,2,1,3.00-3.49,Increase,5
+Male,2,2,2.50-2.99,Decrease,2
+Female,4,2,3.00-3.49,None,2
+Male,1,3,3.50-3.99,None,14
+Male,1,4,2.50-2.99,Decrease,14
+Male,3,2,3.50-3.99,Increase,5
+Female,Post Graduate,4,2.50-2.99,None,2
+Male,3,3,2.50-2.99,None,2
+Female,2,3,3.50-3.99,Increase,11
+Female,2,4,3.50-3.99,Increase,8
+Male,1,2,3.00-3.49,None,5
+Female,Post Graduate,3,3.00-3.49,Decrease,14
+Female,2,3,2.50-2.99,Decrease,2
+Male,3,1,3.50-3.99,Increase,14
+Female,3,3,2.50-2.99,Increase,2
+Male,Post Graduate,1,2.50-2.99,Decrease,8
+Female,1,4,2.50-2.99,Decrease,14
+Female,Post Graduate,1,3.00-3.49,None,8
+Female,3,4,2.50-2.99,None,5
+Male,2,2,3.00-3.49,None,5
+Female,3,2,3.00-3.49,Increase,2
+Female,1,4,2.50-2.99,Decrease,5
+Male,4,2,3.00-3.49,None,11
+Female,4,1,3.00-3.49,Increase,11
+Male,1,4,3.50-3.99,Increase,8
+Female,4,2,3.50-3.99,None,11
+Male,1,3,3.00-3.49,None,8
+Male,4,3,3.00-3.49,None,8
+Female,Post Graduate,3,3.00-3.49,None,11
+Female,1,2,3.50-3.99,None,14
+Female,2,4,3.00-3.49,Decrease,14
+Male,4,3,3.00-3.49,None,11
+Male,3,3,3.00-3.49,Decrease,5
+Female,1,1,3.50-3.99,Decrease,14
+Male,4,4,3.00-3.49,Increase,5
+Male,2,3,3.50-3.99,Increase,11
+Female,Post Graduate,2,3.00-3.49,None,14
+Female,4,1,2.50-2.99,Decrease,5
+Male,Post Graduate,1,3.00-3.49,Increase,5
+Female,2,2,3.00-3.49,Increase,2
+Female,Post Graduate,4,3.00-3.49,Decrease,14
+Female,2,3,3.00-3.49,Decrease,14
+Male,4,2,3.00-3.49,Decrease,11
+Male,1,2,3.00-3.49,Increase,5
+Female,1,1,3.00-3.49,Decrease,14
+Female,Post Graduate,1,3.00-3.49,Decrease,5
+Male,2,3,3.50-3.99,Decrease,14
+Female,3,4,2.50-2.99,Decrease,11
+Female,Post Graduate,3,3.00-3.49,None,5
+Female,4,2,2.50-2.99,Decrease,2
+Female,4,3,3.00-3.49,Increase,5
+Male,3,4,2.50-2.99,None,5
+Female,3,1,3.50-3.99,Decrease,14
+Male,3,4,3.50-3.99,Increase,8
+Male,4,2,3.00-3.49,Increase,2
+Male,1,2,2.00-2.49,Decrease,2
+Male,2,2,3.50-3.99,Increase,8
+Female,4,2,3.50-3.99,None,14
+Male,Post Graduate,3,3.00-3.49,None,2
+Male,1,3,3.50-3.99,Decrease,14
+Male,1,2,3.00-3.49,Decrease,11
+Female,4,3,2.50-2.99,Increase,2
+Female,2,3,3.50-3.99,None,11
+Female,4,4,3.00-3.49,Decrease,14
+Male,Post Graduate,4,2.50-2.99,Decrease,8
+Male,3,4,3.00-3.49,None,5
+Female,2,3,3.00-3.49,Increase,11
+Male,1,2,2.50-2.99,Decrease,5
+Male,2,3,3.50-3.99,Increase,11
+Female,4,2,3.50-3.99,Decrease,11
+Male,1,4,3.00-3.49,Decrease,11
+Male,2,3,3.00-3.49,Decrease,5
+Male,4,2,2.50-2.99,Increase,2
+Male,Post Graduate,3,3.00-3.49,Decrease,11
+Male,Post Graduate,3,3.50-3.99,Decrease,14
+Male,1,1,3.00-3.49,None,2
+Male,4,2,3.50-3.99,Increase,14
+Female,Post Graduate,4,2.50-2.99,Decrease,2
+Female,1,1,3.50-3.99,None,11
+Male,Post Graduate,2,3.50-3.99,Increase,11
+Male,1,1,2.50-2.99,Decrease,5
+Female,Post Graduate,2,2.50-2.99,None,8
+Female,4,1,3.00-3.49,None,2
+Female,3,2,3.00-3.49,None,5
+Male,1,4,3.00-3.49,None,5
+Female,2,3,3.00-3.49,None,11
+Female,3,1,3.50-3.99,Increase,11
+Male,1,3,3.00-3.49,Increase,5
+Female,4,2,3.00-3.49,Increase,8
+Male,4,1,3.50-3.99,Decrease,14
+Female,3,3,3.00-3.49,None,5
+Male,2,2,3.50-3.99,Increase,11
+Male,Post Graduate,2,3.00-3.49,None,5
+Male,Post Graduate,2,3.00-3.49,None,2
+Female,Post Graduate,4,3.00-3.49,None,2
+Female,3,1,3.00-3.49,Decrease,11
+Male,4,3,2.50-2.99,Decrease,8
+Female,Post Graduate,1,3.00-3.49,None,5
+Male,2,4,3.50-3.99,Increase,14
+Male,4,4,3.50-3.99,Increase,11
+Male,2,1,3.00-3.49,Decrease,11
+Male,1,2,3.00-3.49,Decrease,14
+Female,1,3,3.00-3.49,Increase,5
+Female,4,3,3.50-3.99,Increase,14
+Female,1,3,2.50-2.99,None,5
+Male,3,3,3.00-3.49,Increase,5
+Female,4,1,3.00-3.49,Increase,2
+Male,4,1,3.00-3.49,None,2
+Male,2,4,3.00-3.49,None,8
+Male,Post Graduate,1,3.50-3.99,Increase,11
+Female,Post Graduate,4,2.50-2.99,Increase,2
+Female,Post Graduate,1,3.00-3.49,Decrease,11
+Male,4,4,3.50-3.99,Increase,11
+Male,1,1,3.50-3.99,Increase,11
+Male,3,3,3.00-3.49,Decrease,14
+Male,2,2,3.00-3.49,None,14
+Male,3,1,3.50-3.99,Increase,14
+Female,1,3,3.00-3.49,Decrease,14
+Female,4,2,3.00-3.49,Decrease,14
+Male,2,3,3.50-3.99,None,14
+Female,3,1,3.00-3.49,Decrease,14
+Female,3,3,3.00-3.49,Increase,2
+Female,2,4,3.00-3.49,Decrease,8
+Male,4,3,3.50-3.99,None,14
+Female,4,2,3.50-3.99,Increase,11
+Male,2,2,3.00-3.49,None,8
+Male,3,1,3.00-3.49,None,14
+Male,1,1,2.50-2.99,Decrease,5
+Male,2,1,3.00-3.49,Increase,2
+Male,2,4,3.00-3.49,Decrease,14
+Male,Post Graduate,1,3.00-3.49,None,5
+Male,2,4,3.50-3.99,Increase,14
+Female,4,4,2.50-2.99,None,8
+Female,Post Graduate,2,2.50-2.99,None,2
+Male,Post Graduate,3,2.50-2.99,None,2
+Male,4,3,3.50-3.99,Increase,14
+Male,Post Graduate,4,3.50-3.99,None,11
+Female,4,1,2.50-2.99,Decrease,2
+Male,4,3,3.50-3.99,Increase,8
+Male,4,3,2.50-2.99,Decrease,2
+Male,4,1,3.00-3.49,Decrease,11
+Male,4,2,3.50-3.99,Increase,11
+Female,1,3,3.00-3.49,Decrease,11
+Male,4,4,3.00-3.49,Decrease,8
+Male,Post Graduate,3,3.00-3.49,Increase,5
+Male,2,4,2.50-2.99,Decrease,5
+Female,Post Graduate,2,3.50-3.99,Increase,11
+Female,1,4,3.00-3.49,Increase,2
+Female,2,1,3.00-3.49,None,5
+Female,1,1,2.50-2.99,Decrease,2
+Female,Post Graduate,1,3.00-3.49,Decrease,5
+Female,Post Graduate,2,3.50-3.99,None,14
+Male,4,4,2.50-2.99,Decrease,11
+Female,Post Graduate,1,3.00-3.49,Decrease,14
+Female,2,4,3.50-3.99,Increase,11
+Male,2,1,2.50-2.99,Decrease,2
+Male,1,4,2.50-2.99,None,8
+Female,1,2,3.50-3.99,None,11
+Male,3,2,3.00-3.49,None,11
+Female,Post Graduate,2,2.50-2.99,Decrease,2
+Female,Post Graduate,4,3.50-3.99,Increase,14
+Male,3,3,2.50-2.99,None,2
+Male,Post Graduate,4,3.00-3.49,Decrease,2
+Male,4,2,3.50-3.99,Decrease,14
+Female,1,2,3.50-3.99,Increase,11
+Male,3,2,3.00-3.49,None,8
+Male,2,1,3.00-3.49,Decrease,11
+Male,Post Graduate,3,2.50-2.99,Decrease,5
+Female,2,3,3.00-3.49,Increase,8
+Female,4,2,2.50-2.99,Decrease,8
+Male,Post Graduate,1,3.50-3.99,Increase,14
+Female,Post Graduate,2,3.50-3.99,Increase,8
+Female,Post Graduate,3,3.50-3.99,Increase,14
+Male,1,1,3.50-3.99,Increase,14
+Male,Post Graduate,3,3.00-3.49,None,5
+Male,4,4,3.50-3.99,Increase,14
+Female,4,3,2.50-2.99,Increase,2
+Female,2,4,2.50-2.99,Decrease,5
+Female,4,2,3.50-3.99,Increase,8
+Male,4,2,2.50-2.99,Decrease,8
+Female,4,3,3.50-3.99,Increase,5
+Female,1,4,3.00-3.49,Increase,11
+Male,2,2,2.50-2.99,None,5
+Male,4,2,3.50-3.99,Decrease,14
+Female,3,1,3.00-3.49,None,11
+Male,Post Graduate,3,3.00-3.49,Increase,8
+Female,Post Graduate,1,3.00-3.49,Increase,5
+Female,4,4,2.50-2.99,Increase,5
+Female,2,4,3.00-3.49,Increase,8
+Female,1,2,3.50-3.99,Increase,14
+Female,4,2,3.00-3.49,Decrease,11
+Male,Post Graduate,1,3.00-3.49,Decrease,11
+Male,1,1,3.00-3.49,None,8
+Female,4,3,3.00-3.49,None,11
+Female,4,4,3.50-3.99,Increase,5
+Female,2,4,3.00-3.49,Decrease,11
+Female,1,3,2.50-2.99,None,2
+Female,4,4,3.50-3.99,None,14
+Male,Post Graduate,4,3.00-3.49,None,5
+Male,4,4,3.00-3.49,None,8
+Female,2,4,3.00-3.49,None,14
+Female,Post Graduate,3,2.50-2.99,None,2
+Male,3,2,3.50-3.99,Increase,11
+Female,2,2,3.50-3.99,Decrease,14
+Male,4,1,3.00-3.49,Increase,2
+Male,3,3,3.50-3.99,Increase,8
+Male,4,3,3.50-3.99,Increase,11
+Male,4,4,2.50-2.99,Decrease,14
+Female,4,1,3.00-3.49,Increase,11
+Female,Post Graduate,1,3.00-3.49,Increase,8
+Female,3,1,3.50-3.99,Decrease,14
+Male,3,3,3.50-3.99,None,14
+Female,1,3,3.00-3.49,None,5
+Male,1,1,3.50-3.99,Increase,14
+Male,1,4,2.50-2.99,Decrease,14
+Female,4,4,3.00-3.49,None,14
+Male,3,4,2.50-2.99,Decrease,5
+Female,1,2,3.00-3.49,Increase,8
+Female,2,1,2.50-2.99,Decrease,2
+Female,4,1,3.00-3.49,Decrease,11
+Female,3,4,2.50-2.99,None,2
+Female,4,4,2.50-2.99,Decrease,8
+Male,4,3,3.00-3.49,Increase,11
+Male,3,1,3.00-3.49,Increase,14
+Female,2,2,3.00-3.49,None,11
+Female,2,3,3.50-3.99,Increase,11
+Female,4,2,2.50-2.99,None,5
+Male,3,2,2.50-2.99,Decrease,2
+Male,Post Graduate,3,3.00-3.49,None,5
+Male,1,4,3.50-3.99,Decrease,14
+Male,2,2,3.00-3.49,Increase,5
+Male,4,1,3.50-3.99,None,14
+Female,Post Graduate,2,3.50-3.99,Increase,14
+Female,3,2,3.00-3.49,None,14
+Male,3,4,3.00-3.49,Increase,2
+Female,Post Graduate,4,3.00-3.49,Decrease,11
+Male,Post Graduate,1,3.50-3.99,Increase,14
+Male,1,3,2.50-2.99,Increase,2
+Male,3,1,3.00-3.49,Decrease,14
+Male,Post Graduate,3,2.50-2.99,None,2
+Male,Post Graduate,3,2.50-2.99,Increase,2
+Female,Post Graduate,2,2.50-2.99,Decrease,5
+Male,2,1,3.00-3.49,Decrease,5
+Female,3,2,3.00-3.49,Decrease,8
+Male,1,1,3.50-3.99,Increase,11
+Male,1,4,3.00-3.49,None,8
+Female,2,2,2.50-2.99,Decrease,8
+Female,2,4,3.00-3.49,Increase,5
+Female,1,3,3.50-3.99,Increase,11
+Female,3,4,3.50-3.99,Decrease,14
+Male,3,3,3.50-3.99,Increase,11
+Male,4,1,3.00-3.49,Decrease,5
+Male,Post Graduate,4,3.00-3.49,None,5
+Female,2,4,3.00-3.49,Decrease,8
+Female,4,4,3.00-3.49,None,11
+Male,1,2,3.50-3.99,None,11
+Female,4,3,2.50-2.99,Decrease,2
+Female,2,1,3.00-3.49,Decrease,8
+Female,2,3,3.00-3.49,None,11
+Male,4,4,2.50-2.99,Decrease,2
+Female,Post Graduate,4,3.50-3.99,Decrease,14
+Female,1,3,3.00-3.49,Increase,5
+Female,Post Graduate,2,3.00-3.49,Decrease,11
+Male,2,3,3.50-3.99,Increase,8
+Male,2,1,3.50-3.99,Decrease,8
+Male,3,3,3.00-3.49,Decrease,14
+Female,4,4,3.00-3.49,None,11
+Male,1,2,3.50-3.99,Increase,8
+Male,2,4,3.00-3.49,Increase,2
+Female,Post Graduate,4,2.50-2.99,Decrease,2
+Male,1,3,3.50-3.99,Increase,14
+Female,4,2,3.00-3.49,Decrease,5
+Female,2,3,3.00-3.49,Decrease,8
+Female,2,1,3.50-3.99,None,11
+Male,1,2,2.50-2.99,Decrease,5
+Male,2,1,3.00-3.49,None,11
+Male,Post Graduate,1,3.00-3.49,Increase,2
+Male,4,3,3.50-3.99,Increase,11
+Female,3,4,2.50-2.99,Decrease,2
+Male,4,4,3.00-3.49,Increase,2
+Female,Post Graduate,1,3.00-3.49,Decrease,5
+Male,Post Graduate,2,2.50-2.99,Decrease,5
+Female,1,4,3.50-3.99,Increase,14
+Female,2,2,3.00-3.49,Decrease,2
+Female,4,3,3.00-3.49,Increase,5
+Female,4,4,3.00-3.49,None,2
+Female,4,1,3.50-3.99,Increase,11
+Female,2,3,2.50-2.99,None,2
+Female,Post Graduate,4,3.00-3.49,Increase,14
+Female,2,4,3.50-3.99,Increase,11
+Female,1,3,2.50-2.99,Decrease,2
+Male,3,3,3.50-3.99,Increase,14
+Female,1,3,3.00-3.49,None,2
+Male,2,2,2.50-2.99,Decrease,11
+Female,3,4,3.00-3.49,None,2
+Male,Post Graduate,1,3.00-3.49,None,5
+Male,Post Graduate,3,2.50-2.99,Decrease,2
+Female,2,2,3.00-3.49,Increase,11
+Male,1,1,3.50-3.99,Increase,8
+Male,4,3,3.50-3.99,Increase,11
+Female,3,1,2.50-2.99,None,2
+Female,1,2,3.00-3.49,Increase,2
+Male,3,3,3.50-3.99,Increase,8
+Male,1,4,3.00-3.49,Decrease,11
+Male,4,1,3.00-3.49,Decrease,2
+Male,1,4,3.00-3.49,None,8
+Female,1,3,3.50-3.99,Increase,11
+Male,Post Graduate,1,3.50-3.99,Increase,11
+Male,3,4,2.50-2.99,None,2
+Male,Post Graduate,3,3.00-3.49,Decrease,14
+Female,4,3,3.00-3.49,Increase,2
+Female,1,4,3.00-3.49,Increase,8
+Female,Post Graduate,4,3.50-3.99,Increase,11
+Female,Post Graduate,2,3.00-3.49,None,2
+Male,1,4,3.00-3.49,None,14
+Male,4,4,3.00-3.49,None,8
+Female,4,3,3.00-3.49,None,5
+Female,2,4,3.50-3.99,Increase,11
+Female,4,1,3.00-3.49,Decrease,8
+Male,1,1,3.00-3.49,Decrease,14
+Male,1,1,3.00-3.49,None,11
+Female,2,2,3.50-3.99,None,11
+Female,4,2,2.50-2.99,Decrease,2
+Male,1,2,3.50-3.99,Increase,14
+Male,1,3,3.50-3.99,None,11
+Male,3,3,3.00-3.49,Decrease,11
+Female,Post Graduate,4,3.00-3.49,Decrease,11
+Female,4,2,2.50-2.99,None,11
+Male,2,2,3.00-3.49,Decrease,5
+Female,1,4,2.50-2.99,Decrease,2
+Male,2,2,3.00-3.49,None,2
+Male,3,3,3.00-3.49,Increase,8
+Female,3,4,2.50-2.99,None,5
+Female,3,3,3.00-3.49,Decrease,14
+Male,3,4,2.50-2.99,None,2
+Female,2,2,3.00-3.49,None,2
+Female,3,2,3.00-3.49,Decrease,8
+Male,Post Graduate,3,3.50-3.99,Decrease,14
+Female,4,1,2.50-2.99,Decrease,2
+Female,4,2,2.50-2.99,Increase,2
+Male,1,1,3.50-3.99,None,14
+Female,Post Graduate,1,3.00-3.49,None,8
+Male,2,3,2.50-2.99,Decrease,2
+Female,2,3,3.00-3.49,None,14
+Male,2,1,3.50-3.99,Increase,11
+Male,2,1,3.50-3.99,Decrease,14
+Male,1,1,3.00-3.49,Increase,11
+Female,1,2,3.00-3.49,Decrease,11
+Male,2,2,3.50-3.99,None,14
+Female,4,2,3.00-3.49,Increase,5
+Female,2,2,3.00-3.49,Increase,11
+Female,4,2,2.50-2.99,Decrease,14
+Female,1,3,3.50-3.99,None,11
+Female,3,4,3.00-3.49,Increase,5
+Male,2,3,2.50-2.99,None,2
+Female,4,1,3.00-3.49,Decrease,5
+Male,2,2,3.00-3.49,None,8
+Male,4,2,3.00-3.49,None,8
+Female,Post Graduate,2,2.50-2.99,Decrease,2
+Male,1,4,3.00-3.49,None,8
+Female,3,1,3.50-3.99,Increase,5
+Male,Post Graduate,2,2.50-2.99,Decrease,5
+Female,3,1,2.50-2.99,Increase,2
+Male,1,1,3.50-3.99,None,14
+Female,2,3,2.50-2.99,Decrease,5
+Male,Post Graduate,4,2.50-2.99,Increase,2
+Male,2,2,3.00-3.49,Decrease,11
+Male,3,4,2.50-2.99,Decrease,8
+Female,3,1,3.00-3.49,None,2
+Female,2,4,3.00-3.49,None,11
+Female,1,2,3.50-3.99,None,8
+Male,4,1,3.00-3.49,None,8
+Female,3,4,3.00-3.49,None,5
+Male,3,4,2.50-2.99,None,2
+Female,2,4,3.00-3.49,Increase,5
+Female,4,4,3.00-3.49,Decrease,14
+Female,4,4,2.50-2.99,None,2
+Male,1,1,2.50-2.99,Decrease,5
+Male,4,4,2.50-2.99,Decrease,5
+Female,1,3,3.50-3.99,Increase,8
+Male,Post Graduate,2,3.50-3.99,None,8
+Male,4,1,3.00-3.49,Increase,5
+Male,4,4,3.50-3.99,None,11
+Male,1,3,3.50-3.99,None,11
+Female,3,1,3.50-3.99,Increase,14
+Female,1,1,3.50-3.99,None,11
+Female,1,2,3.00-3.49,Increase,8
+Male,1,2,2.50-2.99,Decrease,8
+Male,3,1,3.50-3.99,Decrease,14
+Female,1,1,3.00-3.49,Decrease,14
+Male,Post Graduate,2,3.00-3.49,Decrease,11
+Male,3,4,2.50-2.99,Decrease,5
+Male,2,4,3.00-3.49,Increase,2
+Male,Post Graduate,1,3.50-3.99,None,11
+Female,3,1,3.50-3.99,None,14
+Male,4,1,3.00-3.49,Increase,14
+Female,Post Graduate,3,3.00-3.49,None,8
+Male,1,1,3.00-3.49,None,8
+Male,1,2,3.50-3.99,Increase,2
+Female,4,1,3.50-3.99,None,11
+Female,3,3,3.50-3.99,Increase,11
+Male,2,4,3.00-3.49,Increase,14
+Male,1,3,3.00-3.49,Decrease,14
+Male,2,3,3.50-3.99,None,14
+Male,2,1,3.00-3.49,None,8
+Female,4,1,3.00-3.49,None,5
+Female,2,3,3.00-3.49,None,14
+Female,Post Graduate,1,2.50-2.99,Decrease,2
+Female,4,1,3.50-3.99,Increase,11
+Female,4,2,3.50-3.99,None,14
+Female,2,3,3.00-3.49,None,11
+Male,3,4,3.00-3.49,None,11
+Female,1,1,3.00-3.49,Decrease,5
+Female,3,4,3.00-3.49,None,11
+Male,3,4,3.50-3.99,Increase,5
+Female,3,2,2.50-2.99,Decrease,8
+Male,Post Graduate,3,3.00-3.49,None,2
+Male,1,1,3.00-3.49,None,8
+Male,1,2,3.00-3.49,Decrease,11
+Female,Post Graduate,4,3.50-3.99,None,14
+Female,3,3,2.50-2.99,Increase,2
+Male,4,4,3.00-3.49,Decrease,8
+Female,3,3,3.50-3.99,Increase,8
+Female,Post Graduate,2,3.00-3.49,Increase,14
+Female,4,3,3.00-3.49,Decrease,5
+Male,2,3,3.00-3.49,None,8
+Female,3,2,2.50-2.99,Decrease,5
+Male,Post Graduate,4,3.00-3.49,None,11
+Male,1,2,2.50-2.99,Decrease,2
+Male,1,1,3.00-3.49,None,8
+Female,2,3,3.00-3.49,None,5
+Female,1,3,3.00-3.49,None,8
+Male,4,1,3.50-3.99,Increase,11
+Male,4,1,3.50-3.99,Increase,14
+Female,1,4,3.50-3.99,None,14
+Male,4,1,3.00-3.49,Decrease,11
+Female,Post Graduate,3,2.50-2.99,Decrease,5
+Female,2,2,3.00-3.49,None,11
+Male,2,2,2.50-2.99,Decrease,8
+Female,1,4,3.50-3.99,Increase,14
+Female,1,1,3.00-3.49,Increase,5
+Female,1,1,3.50-3.99,Increase,5
+Female,1,2,3.00-3.49,None,11
+Female,Post Graduate,2,2.50-2.99,Decrease,5
+Female,4,1,3.50-3.99,Increase,11
+Male,4,3,3.00-3.49,None,8
+Female,1,2,3.50-3.99,None,14
+Female,Post Graduate,1,3.00-3.49,None,2
